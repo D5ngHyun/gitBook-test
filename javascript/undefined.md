@@ -1,6 +1,6 @@
 ---
-description: 변수란
+description: 연산자
 ---
 
-# 변수
+# 연산자
 
